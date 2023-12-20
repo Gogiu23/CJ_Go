@@ -1,0 +1,12 @@
+dialog {
+	min-width: 50%;
+	min-height: 60%;
+	border-radius: 10px;
+	border-style: none;
+}
+
+.form {
+	display: flex;
+	justify-content: center;
+}
+
